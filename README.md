@@ -13,7 +13,7 @@ Profile
 * * *
 ### Contact
 
-* Email | dmb03140@gmail.com
+* Email | it.parkbeb@gmail.com
 
 * * *
 ### Skill
