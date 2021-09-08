@@ -17,17 +17,17 @@ Profile
 * * *
 ### Skill
 
-BackEnd
+#BackEnd
 
 * JAVA
 * Spring MVC
 * Eclipse
 
-DevOps
+#DevOps
 
 * Oracle, MySQL
 
-FrontEnd
+#FrontEnd
 
 * Html5, CSS3
 
