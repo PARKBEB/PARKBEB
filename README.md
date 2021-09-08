@@ -15,4 +15,20 @@ Profile
 * Email | dmb03140@gmail.com
 
 * * *
+## Skill
+
+BackEnd
+
+* JAVA
+* Spring MVC
+* Eclipse
+
+DevOps
+
+* Oracle, MySQL
+
+FrontEnd
+
+* Html5, CSS3
+
 
