@@ -5,17 +5,17 @@ Profile
 
 현재 산하정보기술 재직중 / RD사원
 *****
-## Introduction
+### Introduction
 
 * 퍼즐 & 추리게임 덕후! 문제를 풀고 해결하는 것을 즐깁니다.
 
 * * *
-## Contact
+### Contact
 
 * Email | dmb03140@gmail.com
 
 * * *
-## Skill
+### Skill
 
 BackEnd
 
