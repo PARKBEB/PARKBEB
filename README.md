@@ -8,3 +8,9 @@ Profile
 ## Introduction
 
 * 퍼즐 & 추리게임 덕후! 문제를 풀고 해결하는 것을 즐깁니다.
+
+* * *
+## Contact
+
+* Email|dmb03140@gmail.com
+
