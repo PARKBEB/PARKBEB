@@ -32,4 +32,8 @@ Profile
 
 * Html5, CSS3
 
+# Like
+
+* JavaScript, jQuery, React
+
 
