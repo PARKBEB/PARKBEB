@@ -13,7 +13,7 @@ Profile
 * * *
 ### Contact
 
-* Email| it.parkbeb@gmail.com
+* Email | it.parkbeb@gmail.com
 
 * * *
 ### Skill
