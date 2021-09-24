@@ -13,7 +13,7 @@ Profile
 * * *
 ### Contact
 
-* Email&nbsp;&nbsp;| it.parkbeb@gmail.com
+* Email&nbsp;&nbsp;&nbsp;&nbsp;| it.parkbeb@gmail.com
 * GitPage | https://parkbeb.github.io/
 
 * * *
