@@ -29,10 +29,10 @@ Profile
 
 # FrontEnd
 
-* Html5, CSS3
+* Html5, CSS3, JavaScript
 
 # Like
 
-* JavaScript, jQuery, React
+* jQuery, React
 
 
