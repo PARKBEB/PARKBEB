@@ -21,6 +21,7 @@ Profile
 
 * JAVA
 * Spring MVC
+* Spring Boot
 * Eclipse
 
 # DevOps
