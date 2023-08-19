@@ -22,6 +22,7 @@ Profile
 * Spring MVC
 * Spring Boot
 * Eclipse
+* IntelliJ
 
 # DevOps
 
@@ -33,6 +34,6 @@ Profile
 
 # Like
 
-* jQuery, React
+* React
 
 
