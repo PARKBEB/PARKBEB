@@ -19,21 +19,18 @@ Profile
 # BackEnd
 
 * JAVA
-* Spring MVC
-* Spring Boot
-* Eclipse
 * IntelliJ
 
 # DevOps
 
-* Oracle, MySQL
+* 
 
 # FrontEnd
 
-* Html5, CSS3, JavaScript
+* Html5, CSS3
 
 # Like
 
-* React
+* 
 
 
