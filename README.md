@@ -11,26 +11,8 @@ Profile
 * * *
 ### Contact
 
-* Email | it.parkbeb@gmail.com
+* Email | eunji.park@gmail.com
 
 * * *
-### Skill
-
-# BackEnd
-
-* JAVA
-* IntelliJ
-
-# DevOps
-
-* 
-
-# FrontEnd
-
-* Html5, CSS3
-
-# Like
-
-* 
 
 
