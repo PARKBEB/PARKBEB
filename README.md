@@ -11,7 +11,7 @@ Profile
 * * *
 ### Contact
 
-* Email | eunji.park@gmail.com
+* Email | it.parkbeb@gmail.com
 
 
 
