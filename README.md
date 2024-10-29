@@ -13,6 +13,5 @@ Profile
 
 * Email | eunji.park@gmail.com
 
-* * *
 
 
